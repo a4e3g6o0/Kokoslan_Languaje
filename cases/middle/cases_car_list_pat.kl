@@ -1,0 +1,10 @@
+let list = [1, 2, 3]
+let x = 9
+x
+
+//let car = \[x | r].x 
+
+//car(list)
+
+// expected 1
+

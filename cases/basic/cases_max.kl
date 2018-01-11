@@ -1,0 +1,2 @@
+let max = \x.\y. x > y ? x : y
+max(10)(20) == max(20)(10)
